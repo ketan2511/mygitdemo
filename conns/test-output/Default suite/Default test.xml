@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite hostname="LAPTOP-3AR9S4LI" name="tests.TestBase" tests="3" failures="0" timestamp="11 Aug 2019 18:31:44 GMT" time="38.997" errors="0">
+  <testcase name="main" time="13.714" classname="tests.addcarttest"/>
+  <testcase name="init" time="8.338" classname="tests.addcarttest"/>
+  <testcase name="init" time="10.577" classname="tests.addcarttest"/>
+</testsuite>

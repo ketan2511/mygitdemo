@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="38997" started-at="2019-08-12T00:01:05Z" finished-at="2019-08-12T00:01:44Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="38997" started-at="2019-08-12T00:01:05Z" finished-at="2019-08-12T00:01:44Z">
+      <class name="tests.addcarttest">
+        <test-method status="PASS" signature="beforeclass()" name="beforeclass" is-config="true" duration-ms="4293" started-at="2019-08-12T00:01:05Z" finished-at="2019-08-12T00:01:09Z">
+        </test-method>
+        <test-method status="PASS" signature="main()" name="main" duration-ms="13714" started-at="2019-08-12T00:01:09Z" finished-at="2019-08-12T00:01:23Z">
+        </test-method>
+        <test-method status="PASS" signature="init(java.lang.String, java.lang.String)" name="init" duration-ms="8338" started-at="2019-08-12T00:01:24Z" finished-at="2019-08-12T00:01:33Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[hi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[hi]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="init(java.lang.String, java.lang.String)" name="init" duration-ms="10577" started-at="2019-08-12T00:01:33Z" finished-at="2019-08-12T00:01:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[bye]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bye]]>
+              </value>
+            </param>
+          </params>
+        </test-method>
+        <test-method status="PASS" signature="afterClass()" name="afterClass" is-config="true" duration-ms="704" started-at="2019-08-12T00:01:43Z" finished-at="2019-08-12T00:01:44Z">
+        </test-method>
+      </class>
+    </test>
+  </suite>
+</testng-results>
